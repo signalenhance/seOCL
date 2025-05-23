@@ -1,0 +1,138 @@
+
+# The Signal Enhance Open Community License Standard (seOCL)
+# Versioning: 1.0 
+# Effective Date: March 18th, 2025
+# Copyright © 2025 Signal Enhance. “open house.” is a brand under Signal Enhance, and observes the same legal protections.
+
+
+## Preamble:
+
+This license was originally authored by Signal Enhance for The open house. Project and other related assets.
+This license is made publicly available and may be adopted by any developer or organization at no cost under the conditions stated herein. Adopters of this license may add their own terms, provided those terms are clearly marked and do not alter or override the terms defined by this license.
+
+
+## Section 0: Purpose
+
+**The Signal Enhance Open Community License Standard (seOCL) v1.0** is a conditional license intended to enable open, transparent, and accessible community-developed intellectual property, including software, hardware, and derivative works. This license was developed to protect creators from unauthorized commercial exploitation while fostering public collaboration.
+
+Signal Enhance supports open access, but opposes the misuse of community-driven works by for-profit corporations and large-scale actors who seek to commercialize such works without fair compensation or attribution. This license allows creators to impose clear, enforceable limits on for-profit use, enabling negotiation and fair licensing terms for commercial actors.
+
+For this, we employ **the seOCL v1.0 licensing standard**, and as an extension, “we” (Signal Enhance) aim to protect socialization and open-source by enabling creators to set fair commercial limits on their work. We as a brand use this license in several of our works, and plan to continue this fair-use based approach to releasing our sources to the public. This license sets forth no specific conditions or regulations that force the creator to place a value on their work. Rather, it limits commercial actors from using said works for profit without the true creator being attributed or mentioned, while still allowing for free community usage rather easily.
+
+
+## Section 1: Definitions
+
+a.	**“Signal Enhance”, “we”, or “us”** refers to the organization that originated this license, including its affiliated brands, such as “open house.”.
+
+b.	**“Creator”, “developer”, “author”, or “licensor”** refers to the person or entity who applies this license to their work.
+
+c.	**“Software”** refers to the licensed work including, but not limited to:
+    i.	 *Source code*
+    ii.	 *Compiled binaries*
+    iii. *Scripts*
+    iv.	 *Hardware schematics*
+    v.	 *Other unlisted intellectual properties released under this license.*
+
+    This definition includes non-software works where explicitly stated.
+
+d.	**“Modification”** means any work that is derived from, repackaged, adapted, enhanced, or redistributed based on the original software or hardware.
+
+e.	**“End-user”** refers to a natural person or entity that uses this software or any derived form of it.
+
+f.	**“For-profit entity”** refers to any natural person, legal entity, or organization that receives or intends to receive financial benefit, revenue, funding, or compensation (directly or indirectly) from use of the software. Common examples include, but are not limited to:
+    i.	 *Monetized applications*
+    ii.	 *Software embedded in paid services*
+    iii. *SaaS platforms*
+    iv.	 *Enterprise deployments*
+    v.	 *Integrations into a product or offering that charges users*
+
+g.	**“Infringement”** means any use of the licensed software or derived works in violation of this license, including unlicensed commercial exploitation, unauthorized redistribution, or circumvention of license terms.
+
+
+## Section 2: General Conditions
+
+*To ensure fair use and protect against unauthorized commercialization, the following conditions apply*:
+
+1.	**Conditional Copyleft Requirement**: Any modified version of the software must be licensed under seOCL v1.0, except in cases where the work qualifies as “for-profit” under the definitions and metrics set by the original creator. For-profit entities may not use this license without obtaining explicit written permission.
+
+2.	**Educational and Research Use**: Redistribution or reuse for educational or research purposes may proceed freely under this license. However, such use must not be repackaged into commercial offerings.
+
+3.	**For-Profit Use and Commercial Licensing**:
+    a.	*If the software is to be used in a commercial, revenue-generating, or for-profit context, the user must obtain a separate commercial license from the creator.*
+    b.	*The creator retains full discretion to grant or deny such commercial license. There is no obligation to approve any request for commercial licensing, regardless of the requester’s eligibility.*
+    c.	*Entities qualifying as “for-profit” based on the creator’s defined metrics must immediately cease use and contact the creator for licensing terms. Use may not resume without written agreement.*
+    d.	*A for-profit entity has no legal right or entitlement to a license under seOCL. Commercial use is a privilege granted solely at the creator’s discretion.*
+
+4.	**Distribution Requirements**:
+    a.	*Any work using this license must include a full, unaltered copy of this license.*
+    b.	*If the developer appends additional terms, these must be clearly labeled as “Supplemental Terms” and must not alter or supersede any portion of the original license.*
+    c.	*If a work using this license is forked, the forked work must include this license in full, as well as any applicable Supplemental Terms defined by the original work. These terms must remain unaltered and clearly preserved.*
+    d.	*Forked works may only add new Supplemental Terms after retaining the original ones, and must not redefine the qualifications for “for-profit” use, nor may they apply a different license, unless explicitly permitted by the original creator under a separate written license agreement.*
+
+5.	**Clause Limitations and Guidelines for Developers**: Additional terms may be added by the developer to address specific conditions; however, they must:
+    a.	*Be clearly labeled and distinct from the base license.*
+    b.	*Users, contributors, and licensees must not engage in discrimination against any individual or group on the basis of race, ethnicity, color, national origin, religion, sex, gender, gender identity or expression, sexual orientation, age, disability, genetic information, socioeconomic background, or any other characteristic protected by applicable law.*
+    c.	*Use clear, unambiguous language.*
+    d.	*Avoid contradictions or overrides to seOCL v1.0.*
+    e.	*Not create loopholes for unauthorized commercialized commercial use.*
+    f.	*Not redefine terms already defined in this license.*
+    g.	*Be vetted by legal counsel when possible.*
+    h.	*Use metrically verifiable thresholds for defining “for-profit” (e.g., revenue caps, transaction counts, user scale). For example, “If any entity derives over $1,000 USD in revenue using this software, they qualify as for-profit and must request a commercial license.”*
+    i.	*Avoid provisions that may unintentionally weaken the enforceability of this license, including vague conditions or subjective interpretations of intent.*
+    j.	*Include a clear definition of “for-profit” in the Supplemental Terms sections. Failure to define this renders the license incomplete and non-enforceable.*
+
+6.	**Transparency and Attribution**:
+    a.	*All distributed or publicly accessible versions of the software must include attribution to the original creator or project, including a link to the original source repository and license file.*
+    b.	*Any public claim of authorship by a secondary developer must distinguish their contributions from the original work.*
+
+7.	**Compliance Monitoring**:
+    a.	*Developers are encouraged to maintain mechanisms (e.g., telemetry, public tracking, or reporting frameworks) that allow them to monitor potential commercial use of their software while respecting user privacy.*
+    b.	*Any such measures must be disclosed in documentation or README files included with the software.*
+
+8.	**Forking Limitation**: Works that fall under the creator’s defined “for-profit” threshold may not be licensed under seOCL without written approval. Only non-commercial derivatives may inherit this license.
+
+9.	**Violation and Enforcement**: Unauthorized commercial use, redistribution, or failure to comply with licensing terms constitutes infringement and may result in legal action, license termination, and removal of usage rights.
+
+10.	**Acknowledgement Requirement**: All software or products using this license must visibly acknowledge use of the seOCL license in a user-accessible area. Acceptable locations include an “About” screen, information/help panel, command-line footer, or similar interface location. Where applicable, attribution to the original creator must also be included alongside the license reference.
+
+11.	**Implied Consent**:  By using, modifying, contributing to, or otherwise interacting with this software or its derivatives, any user, contributor, or entity irrevocably agrees to be bound by the terms and conditions of this license and any Supplemental Terms attached to it, provided such Supplemental Terms comply with the guidelines set forth in this license.
+
+Section 3: Warranty Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. NO WARRANTIES SHALL BE CONSTRUED TO EXIST UNLESS EXPRESSLY STATED IN WRITING AND SIGNED INTO EFFECT BY THE ORIGINAL CREATOR OR LICENSOR.
+NEITHER THE AUTHORS, DEVELOPERS, COPYRIGHT HOLDERS, NOR SIGNAL ENHANCE AS AN ENTITY SHALL BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR ITS USE, INCLUDING BUT NOT LIMITED TO: LOSS OF DATA, SYSTEM FAILURE, BUSINESS INTERRUPTION, OR ANY CONSEQUENTIAL OR INCIDENTAL DAMAGES. BY USING THIS SOFTWARE, YOU AGREE TO WAIVE ALL LEGAL CLAIMS OF LIABILITY AGAINST BOTH THE CREATOR(S) AND SIGNAL ENHANCE.
+
+Section 4: Additional Legal Clauses
+
+1.	**No Endorsement**:  Use of this license does not imply endorsement by Signal Enhance or the original creator.
+2.	**Severability**: If any provision of this license is found unenforceable, the remainder of the license shall remain valid and enforceable.
+3.	**Trademark Limitation**: This license does not grant rights to use any trademarks, service marks, logos, branding, or products names of the creator or Signal Enhance, including the “open house.” mark, beyond attribution purposes. Any use of such identifiers for promotional, commercial, or interface-facing purposes requires separate, written permission.
+4.	**License Compatibility**: This license is not compatible with licenses requiring unrestricted commercial use. Dual-licensing under permissive licenses (e.g., MIT, Apache) is not permitted unless explicitly allowed by the original author.
+5.	**Jurisdiction**: This license shall be governed by the laws of the jurisdiction selected by the creator. If no jurisdiction is specified, the creator’s primary country or legal domicile shall apply.
+6.	**Dispute Resolution**: In the event of a dispute arising from or relating to this license, parties agree to engage in good faith negotiations before initiating formal legal proceedings. Mediation or arbitration may be pursued where legally permitted.
+
+*End of Base License // seOCL v1.0*
+
+## To reference this license in your work, either attach a copy of this exact license, including the template below, within a file, linked to on a store page (if applicable), available in a physical format for physical products, or otherwise embedded alongside your work.
+
+### For more information on this license, visit the repository: https://github.com/signalenhance/seOCL
+
+
+## Developer-Defined Supplemental Terms Template
+
+### The following section is reserved for optional clauses defined by the creator or licensor. These terms must not override or contradict any part of the seOCL v1.0 license above. Any clause added below should be clearly written and legally sound.
+
+---**BEGIN SUPPLEMENTAL TERMS**
+
+[Insert your additional terms, conditions, or usage limitations here. You must define what constitutes a "for-profit" use case below. Failure to do so renders the license non-enforceable.]
+
+Examples:
+* Definition of "for-profit" threshold specific to your project (e.g., “Any use that generates over $500 USD in revenue per month.”)
+* Restrictions on geographic distribution
+* Acceptable types of modification or redistribution
+* Limitations on AI training or data scraping
+* Contact method for commercial licensing requests
+
+---**END SUPPLEMENTAL TERMS**
+
+*End License // seOCL v1.0 + Author-Defined Supplemental Terms*
