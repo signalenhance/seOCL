@@ -17,5 +17,5 @@ You can also explore this repository, comments, <a href="https://forums.signalen
 
 Still have questions? <a href="mailto:help@signalenhance.com?subject=Inquiry%20About%20the%20seOCL%20v1.0%20License">Email us</a>
 <br />
-> *Copyright (C) 2025 Signal Enhance. "open house." is a brand under Signal Enhance and recieves the same protections as its parent.*
+> *The brand "Signal Enhance" is under Copyright (C) circa 2025. "open house." is a brand under Signal Enhance and recieves the same protections as its parent.*
 
